@@ -1,15 +1,15 @@
 {
-    "name": "your-brand-name/your-project",
+    "name": "apatil2410/FinalPackage",
     "type": "library",
-    "description": "Your package description goes here",
-    "keywords": ["relevant","tags","go","here"],
+    "description": "This Pakage will be used for testing",
+    "keywords": ["FianlPackage","TestFinalPackage","go","here"],
     "homepage": "https://yourcompany.com",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jordi Boggiano",
-            "email": "j.boggiano@seld.be",
-            "homepage": "http://seld.be",
+            "name": "Amol Patil",
+            "email": "amolpatil24@gmail.com",
+            "homepage": "http://no.com",
             "role": "Developer"
         }
     ]
